@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Fb2Compressor": {
+      "commandName": "Project",
+      "commandLineArgs": "-d true -s \"d:\\work\" -r true -t \"d:\\test\" "
+    }
+  }
+}
